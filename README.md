@@ -1,10 +1,10 @@
-# 📊 Modelo de Regressão Gama aplicado a Dados Globais de Energia Sustentável
+# Modelo de Regressão Gama aplicado a Dados Globais de Energia Sustentável
 
 ## 🔎 Visão Geral
 
 Este projeto apresenta a aplicação prática de um **Modelo Linear Generalizado (GLM) com distribuição Gamma** utilizando o dataset *Global Data on Sustainable Energy (2000–2020)* (Kaggle).
 
-A análise tem como foco modelar uma variável energética contínua e positiva a partir de indicadores econômicos e energéticos de aproximadamente 175 países ao longo de 21 anos (2000–2020).
+A análise tem como foco modelar uma variável energética contínua e positiva a partir de indicadores econômicos e energéticos de aproximadamente 175 países ao longo de 20 anos (2000–2020).
 
 O projeto enfatiza boas práticas em:
 - preparação e limpeza de dados
